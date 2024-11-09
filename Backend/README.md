@@ -18,7 +18,7 @@ Make sure to have virtualenv
 ```
 Change directory to backend
 ```bash
-  cd backend
+  cd Backend
 ```
 
 Create an virtualenv
