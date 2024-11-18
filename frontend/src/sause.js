@@ -37,9 +37,9 @@ function QuillEditor() {
     <div>
       <div ref={editorRef} style={{ height: "300px" }} />
       <button onClick={handleSave}>Save Content</button>
-      <input type="file" onChange={handleFileChange}/>
+      {/* <input type="file" onChange={handleFileChange}/>
       <p>{fileName ?`Selected File: ${fileName}`:`No file selected.`}</p>
-      <button onClick={handleUpload}></button>
+      <button onClick={handleUpload}></button> */}
     </div>
   );
 }
