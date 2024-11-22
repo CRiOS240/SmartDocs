@@ -1,5 +1,6 @@
 import React from "react";
-import QuillEditor from "./sause";
+import QuillEditor from "./docu";
+import './App.css'
 
 function App() {
   return (
